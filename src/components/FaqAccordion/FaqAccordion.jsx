@@ -72,7 +72,7 @@ function FaqAccordion() {
                     </Accordion.Body>
                 </Accordion.Item>
                 <Accordion.Item eventKey='2'>
-                    <Accordion.Header>What is Autonomous systems </Accordion.Header>
+                    <Accordion.Header>What is an Autonomous system</Accordion.Header>
                     <Accordion.Body>
                     <p>An autonomous system is one that can achieve a given set of goals in a changing environment—gathering information about the environment and working for an extended period of time without human control or intervention. Driverless cars and autonomous mobile robots (AMRs) used in warehouses are two common examples.</p>
                     <p>Autonomy requires that the system be able to do the following:</p>

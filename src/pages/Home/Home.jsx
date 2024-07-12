@@ -106,7 +106,7 @@ function Home() {
             <div className='container d-flex flex-column align-items-center'>
                 <h2>Welcome To</h2>
                 <h1 className='text-center fw-semibold'>National School of Autonomous Systems Technology</h1>
-                <p>One of the best excellent training centers for engineers in Algeria. </p>
+                <p>One of the best training centers for engineers in Algeria. </p>
                 <div className='d-flex flex-column flex-sm-row align-items-center'>
                     <Link to="/courses">
                     <button type='button' class='somthingbutt btn btn-danger btn-lg mx-0 mx-sm-2 my-2 my-sm-0 btn-custom'>Discover</button>

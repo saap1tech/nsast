@@ -16,7 +16,7 @@ function ChooseSection() {
                         </div>
                         <Card.Body>
                             <Card.Title className='text-center text-capitalize mb-3'>
-                                Totaly new school so you have a big chance in the work market.
+                                Totaly new school so you have a big chance in the job market.
                             </Card.Title>
                             <Card.Text className='text-center'>
                                 
@@ -54,7 +54,7 @@ function ChooseSection() {
                                 In Abdelhafid Ihdaden techonlogical pole 
                             </Card.Title>
                             <Card.Text className='text-center'>
-                                Near to the ENSIA NHSM ENSNN ENSCS
+                                Near ENSIA NHSM ENSNN ENSCS
                             </Card.Text>
                         </Card.Body>
                     </Card>
