@@ -48,7 +48,7 @@ const blogs = [
         id: 6,
         img: [Blog6Img],
         title: 'Djelouah Hanane',
-        description: 'This field is wonderful in our current era, and enjoyable if you love it. Stay motivated, prioritize your goals and أزدم ✨🫡.Study, work diligently, sleep well, eat your meals, and don`t forget to enjoy your life, because all our choices in life are meaningless if they don`t bring us joy. Enjoy the journey in this school future engineer ! 🫡. And remember " No pain, no gain .PEACE WAS NEVER AN OPTION".'
+        description: 'This field is wonderful in our current era, and enjoyable if you love it. Stay motivated, prioritize your goals and أزدم .Study, work diligently, sleep well, eat your meals, and don`t forget to enjoy your life, because all our choices in life are meaningless if they don`t bring us joy. Enjoy the journey in this school future engineer !. And remember " No pain, no gain .PEACE WAS NEVER AN OPTION".'
     },
     {
         id: 7,
