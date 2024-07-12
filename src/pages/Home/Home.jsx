@@ -82,7 +82,7 @@ const blogs = [
         id: 1,
         img: [Blog1Img],
         title: 'Sebti Abdellah',
-        description: 'GREAT Field'
+        description: 'PEACE WAS NEVER AN OPTION'
     },
     {
         id: 2,
