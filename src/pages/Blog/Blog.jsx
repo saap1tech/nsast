@@ -29,7 +29,7 @@ const blogs = [
         id: 4,
         img: [Blog4Img],
         title: 'Ikram douifi',
-        description: 'My experience in this school was from the greatest ones .it gonna teache you a lot of things but only if you want to see this opportunities and make it for your side ❤️'
+        description: 'My experience in this school was from the greatest ones .it gonna teach you a lot of things but only if you want to see this opportunities and make it for your side ❤️'
     },
     {
         id: 3,
