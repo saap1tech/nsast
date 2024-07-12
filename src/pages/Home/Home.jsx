@@ -1,4 +1,3 @@
-
 import React, { useRef, useEffect } from 'react';
 import './Home.css';
 import { Link } from 'react-router-dom';
@@ -8,7 +7,7 @@ import FaqAccordion from '../../components/FaqAccordion/FaqAccordion';
 import { Card } from 'react-bootstrap';
 import Blog1Img from '../../utils/images/blog1-img.jpg';
 import Blog2Img from '../../utils/images/blog2-img.jpg';
-import Blog3Img from '../../utils/images/blog3-img.jpg';
+import Blog4Img from '../../utils/images/blog4-img.jpg';
 
 
 
@@ -93,11 +92,11 @@ const blogs = [
 
     },
     {
-        id: 3,
-        img: [Blog3Img],
-        title: 'Saidi Naila',
-        description: 'this school is party and I’m the piñata.'
-    }
+        id: 4,
+        img: [Blog4Img],
+        title: 'Ikram douifi',
+        description: 'My experience in this school was from the greatest ones .it gonna teache you a lot of things but only if you want to see this opportunities and make it for your side ❤️'
+    },
 ];
 
 function Home() {

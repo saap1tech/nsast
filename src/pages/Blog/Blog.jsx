@@ -10,7 +10,7 @@ import Blog5Img from '../../utils/images/blog5-img.jpg';
 import Blog6Img from '../../utils/images/blog6-img.jpg';
 import Blog7Img from '../../utils/images/blog7-img.jpg';
 import Blog8Img from '../../utils/images/blog8-img.jpg';
-
+import Blog9Img from '../../utils/images/blog9-img.jpg';
 
 const blogs = [
     {
@@ -26,17 +26,18 @@ const blogs = [
         description: 'Autonomous systems will revolutionize our understanding of the possible, turning the extraordinary into everyday reality.As pioneers in this exciting frontier, we will be the ones to shape the future of this field'
     },
     {
-        id: 3,
-        img: [Blog3Img],
-        title: 'Saidi Naila',
-        description: 'this school is party and I’m the piñata.'
-    },
-    {
         id: 4,
         img: [Blog4Img],
         title: 'Ikram douifi',
         description: 'My experience in this school was from the greatest ones .it gonna teache you a lot of things but only if you want to see this opportunities and make it for your side ❤️'
     },
+    {
+        id: 3,
+        img: [Blog3Img],
+        title: 'Saidi Naila',
+        description: 'this school is party and I’m the piñata.'
+    },
+    
     {
         id: 5,
         img: [Blog5Img],
@@ -63,9 +64,9 @@ const blogs = [
     },
     {
         id: 9,
-        img: [Blog1Img],
-        title: 'Sebti Abdellah',
-        description: '`great field`'
+        img: [Blog9Img],
+        title: 'Khanouf iyad',
+        description: 'Don`t raise the white flag except when Real Madrid wins'
     },
 ];
 
