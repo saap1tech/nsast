@@ -31,7 +31,7 @@ function App() {
           <Navbar.Collapse id='basic-navbar-nav'>
             <Nav className='me-auto justify-content-end w-100'>
               <Nav.Link href='/' className='text-uppercase'>Home</Nav.Link>
-              <Nav.Link href='/courses' className='text-uppercase'>speciality </Nav.Link>
+              <Nav.Link href='#' className='text-uppercase'>speciality </Nav.Link>
               <Nav.Link href='/about' className='text-uppercase'>About School</Nav.Link>
               <Nav.Link href='/blog' className='text-uppercase'>Student's Opinion</Nav.Link>
               <Nav.Link href='#' className='text-uppercase'>Get in touch</Nav.Link>
@@ -94,7 +94,7 @@ function App() {
                     <Link to="/" className='text-decoration-none text-danger'>
                       <li className='text-uppercase fw-semibold' style={{ color: '#050C9C'}}>Home</li>
                     </Link>
-                    <Link to="/courses" className='text-decoration-none text-danger'>
+                    <Link to="#" className='text-decoration-none text-danger'>
                       <li className='text-uppercase fw-semibold' style={{ color: '#050C9C'}}>speciality</li>
                     </Link>
                     <Link to="/about" className='text-decoration-none text-danger'>
