@@ -1,0 +1,38 @@
+.faq-section p,
+.accordion {
+    width: 75%;
+}
+
+.accordion .accordion-button:focus,
+.accordion .accordion-button:not(.collapsed) {
+    box-shadow: none;
+}
+
+.accordion .accordion-button:not(.collapsed) {
+    background-color: #3572EF;
+    color: #ffffff;
+}
+
+.accordion .accordion-button:not(.collapsed)::after {
+    filter: invert();
+}
+
+@media only screen and (max-width: 992px) {
+    .faq-section p,
+    .accordion {
+        width: 100%;
+    }
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+th {
+    background-color: #f2f2f2;
+}

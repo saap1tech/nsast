@@ -1,0 +1,8 @@
+
+.courses-page .card-img-overlay {
+    background-color: rgba(5, 10, 35, 0.7);
+}
+
+.courses-page .card:hover {
+    cursor: pointer;
+}
