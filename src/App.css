@@ -1,31 +1,81 @@
-.App {
-  text-align: center;
+:root {
+  --primary-color: #007bff;
+  --secondary-color: #9bc7ed;
+  --light-color: #f8f9fa;
+  --dark-color: #0b1e31;
 }
 
+body {
+  background-color: var(--light-color);
+  font-family: Arial, sans-serif;
+}
 
-.logotaa3{
+.head {
+  background-color: var(--light-color);
+  border-radius: 0 0 1rem 1rem;
+  width: 100%;
+  padding: 0.5rem;
+}
+
+.navbar-custom {
+  background-color: var(--primary-color);
+}
+
+.navbar-brand-text {
+  color: var(--light-color);
+  font-size: 1rem;
+}
+
+.nav-link-custom {
+  color: var(--light-color) !important;
+  margin: 0 10px;
+}
+
+.nav-link-custom:hover {
+  color: var(--secondary-color) !important;
+}
+
+.navbar-toggle-custom {
+  border-color: var(--light-color);
+}
+
+footer {
+  background-color: var(--dark-color);
+  color: var(--light-color);
+  padding: 20px 0;
+}
+
+.footer-social-icons li {
+  list-style: none;
+  margin: 0 10px;
+  color: var(--light-color);
+}
+
+.footer-social-icons li:hover {
+  color: var(--primary-color);
+}
+
+.btn-outline-light {
+  border-color: var(--light-color);
+  color: var(--light-color);
+}
+
+.btn-outline-light:hover {
+  background-color: var(--light-color);
+  color: var(--dark-color);
+}
+
+.container {
+  max-width: 1200px;
+}
+
+.logotaa3 {
   width: 70px;
-  height: 70px;
-}
-h1, h2, h3, p, a {
-  font-family: 'Montserrat', sans-serif;
+  margin-right: 14px;
 }
 
 header h1 {
   font-size: 4rem;
-}
-
-.navbar .nav-link {
-  font-size: 14px;
-  color: #ffffff;
-}
-
-.navbar .navbar-nav .nav-link:hover {
-  color: #3572EF;
-}
-
-nav .navbar-toggler:focus {
-  box-shadow: none;
 }
 
 .scale-hover-effect {
@@ -38,14 +88,6 @@ nav .navbar-toggler:focus {
 
 .height-75 {
   height: 75vh;
-}
-
-.footer-social-icons li:hover svg {
-  fill: #212529;
-}
-
-.footer-navigation li:hover {
-  color: #212529;
 }
 
 @media only screen and (max-width: 992px) {
@@ -70,8 +112,4 @@ nav .navbar-toggler:focus {
   header h1 {
     font-size: 2rem;
   }
-}
-
-.somthingbutt{
-  background-color: #3572EF;
 }
