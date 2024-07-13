@@ -42,7 +42,7 @@ const blogs = [
         id: 5,
         img: [Blog5Img],
         title: 'Maissa Bennaceur',
-        description: 'My time at NSAST has been an epic saga with professors as dragons, assignments as quests, and exams as battles. They challenge us with cryptic riddles, and our `open space` is where we innovate using hardware and software skills, surrounded by algorithms and equations on whiteboards. NHSAS is like a thrilling RPG; navigating projects and facing challenges shapes us into stronger, wiser individuals.'
+        description: 'My time at NAST has been an epic saga with professors as dragons, assignments as quests, and exams as battles. They challenge us with cryptic riddles, and our `open space` is where we innovate using hardware and software skills, surrounded by algorithms and equations on whiteboards. NHSAS is like a thrilling RPG; navigating projects and facing challenges shapes us into stronger, wiser individuals.'
     },
     {
         id: 6,
