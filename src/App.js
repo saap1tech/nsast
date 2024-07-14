@@ -66,7 +66,7 @@ function App() {
         <div className="container my-5">
           <div className="row d-flex justify-content-between align-items-center">
             <div className="col-md-4">
-              <Link to="/contact">
+              <Link to="#">
                 <button
                   type="button"
                   className="btn btn-outline-light btn-lg mb-5 mb-md-4"
@@ -170,7 +170,7 @@ function App() {
         <div className="bg-body-tertiary">
           <div className="container">
             <p className="p-3 m-0 text-center fw-bold text-black">
-              Made By Abdellah Sebti | {new Date().getFullYear()}
+              &copy;Made By Abdellah Sebti | {new Date().getFullYear()}
             </p>
           </div>
         </div>
