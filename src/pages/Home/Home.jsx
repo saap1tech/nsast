@@ -2,7 +2,7 @@ import React, { useRef, useEffect } from 'react';
 import './Home.css';
 import { Link } from 'react-router-dom';
 import ChooseSection from '../../components/ChooseSection/ChooseSection';
-import StartCoursesImg from '../../utils/images/video.mp4';
+import StartCoursesImg from '../../utils/images/nsast.mp4';
 import FaqAccordion from '../../components/FaqAccordion/FaqAccordion';
 import { Card } from 'react-bootstrap';
 import Blog1Img from '../../utils/images/blog1-img.jpg';
